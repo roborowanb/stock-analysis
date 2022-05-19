@@ -4,5 +4,6 @@
   
 ## Results
   
+  https://github.com/roborowanb/stock-analysis/blob/main/2018.png 
   
 ## Summary
