@@ -4,8 +4,8 @@
   
 ## Results
   
-  https://github.com/roborowanb/stock-analysis/blob/main/2018.png 
   
+  ![2017](https://github.com/roborowanb/stock-analysis/blob/6c56400f6208b668bc900e251bddc671055417b2/2017.png)
   
   ![2018](https://github.com/roborowanb/stock-analysis/blob/941e513f960ed04f5da22b6ae45ba8a5db1b863d/2018.png)
   
